@@ -1,0 +1,9 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/leads",
+      "destination": "https://kebbsti5ee.execute-api.us-east-2.amazonaws.com/leads"
+    }
+  ],
+  "framework": "nextjs"
+}
